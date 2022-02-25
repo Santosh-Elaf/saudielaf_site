@@ -1,0 +1,37 @@
+
+---Downloaded files---
+The import files for: Buildbench Default were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://staging.saudielaf.com
+Data file = /home3/saudiela/public_html/staging/wp-content/uploads/2022/02/demo-content-import-file_2022-02-14__14-15-06.xml
+Widget file = /home3/saudiela/public_html/staging/wp-content/uploads/2022/02/demo-widgets-import-file_2022-02-14__14-15-06.json
+Customizer file = /home3/saudiela/public_html/staging/wp-content/uploads/2022/02/demo-customizer-import-file_2022-02-14__14-15-06.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Blog widget area : 
+
+Search - No Title - Widget already exists
+Buildbench recent post - Popular Posts - Widget already exists
+Categories - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Tag Cloud - No Title - Widget already exists
+
+Footer Left : 
+
+Image - No Title - Widget already exists
+Text - No Title - Widget already exists
+
+Footer Center : 
+
+Navigation Menu - About Company - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
