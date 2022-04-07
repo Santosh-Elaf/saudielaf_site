@@ -102,6 +102,22 @@ jQuery( document ).ready( function($){
           scrollTop: 0
         }, 800);
     });
+	
+// 	ARABIC LANGUAGE SWITCHER 
+	(function () {
+	var theLanguage = $('html').attr('lang');
+	if (theLanguage == 'ar') {
+		$(".body-innner-content, h1.slider-title, .ar-font, .ar-font h2, .ts-title, .section-title, span.sub-title, .ts-working-box h3, h3.banner-title, .ar-font h3, .ar-font p, .ar-box h3, .ar-box p, .text-widget h3, h3.widget-title").css("font-family","Almarai, sans-serif");
+		
+		$(".ar-text-align-right h2, .ar-box h3, .ar-box p, .ar-text-align-right h3, .ar-text-align-right h4").css("text-align","right");
+		
+		$(".menu-item-object-language_switcher").css({"position":"absolute","left":"0"});
+	}
+		else {
+			$(".menu-item-object-language_switcher").css({"position":"absolute","right":"0"});
+		}
+		
+	}());
 
    
 } );
