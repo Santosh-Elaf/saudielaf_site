@@ -1,0 +1,7 @@
+[14-Feb-2022 13:54:49 UTC] WordPress database error Unknown column 'se_' in 'field list' for query SELECT se_
+[14-Feb-2022 13:57:55 UTC] PHP Warning:  sprintf(): Too few arguments in /home3/saudiela/public_html/staging/wp-admin/includes/class-bulk-upgrader-skin.php on line 156
+[14-Feb-2022 13:57:55 UTC] PHP Warning:  sprintf(): Too few arguments in /home3/saudiela/public_html/staging/wp-admin/includes/class-bulk-upgrader-skin.php on line 156
+[14-Feb-2022 13:57:56 UTC] PHP Warning:  sprintf(): Too few arguments in /home3/saudiela/public_html/staging/wp-admin/includes/class-bulk-upgrader-skin.php on line 156
+[14-Feb-2022 13:57:58 UTC] PHP Warning:  sprintf(): Too few arguments in /home3/saudiela/public_html/staging/wp-admin/includes/class-bulk-upgrader-skin.php on line 156
+[14-Feb-2022 13:57:59 UTC] PHP Warning:  sprintf(): Too few arguments in /home3/saudiela/public_html/staging/wp-admin/includes/class-bulk-upgrader-skin.php on line 156
+[14-Feb-2022 13:57:59 UTC] PHP Warning:  sprintf(): Too few arguments in /home3/saudiela/public_html/staging/wp-admin/includes/class-bulk-upgrader-skin.php on line 156
